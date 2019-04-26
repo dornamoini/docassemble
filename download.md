@@ -7,7 +7,7 @@ order: 30
 
 If you want to run **docassemble** to test it out, you should download
 and run it [using Docker].  You can also create a "no code"
-**docassemble** interview for free at [Community.lawyer](https://community.lawyer/).
+**docassemble** interview for free at [Community.lawyer](https://community.lawyer/) or [Documate](https://www.documate.org).
 
 If you want to [deploy] **docassemble** in the cloud, you can run it
 [using Docker] on a cloud-based virtual machine.
